@@ -39,7 +39,7 @@ Para executar este projeto, você precisará do Java e do simulador MARS.
 
 1.  Clone este repositório:
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone https://github.com/rochatobias/background_modeling.git
     ```
 2.  Coloque os seus arquivos de imagem (frames) na pasta raiz do projeto. Os arquivos devem seguir o padrão de nomenclatura `frameXXXX.pgm` ou `frameXXXX.ppm` (com 4 dígitos).
 3.  Inicie o simulador MARS.
