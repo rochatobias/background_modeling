@@ -1,7 +1,7 @@
 # Cálculo de Modelo de Fundo em Assembly MIPS-32
 
-![Linguagem](https://img.shields.io/badge/Linguagem-MIPS%20Assembly-blue)
-![Plataforma](https://img.shields.io/badge/Plataforma-MARS%204.5-red)
+![Linguagem](https://img.shields.io/badge/Linguagem-MIPS_Assembly-0078D7?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Plataforma](https://img.shields.io/badge/Plataforma-MARS_4.5-D00000?style=for-the-badge&logo=openjdk&logoColor=white)
 
 Implementação de um algoritmo de **Modelo de Fundo** (*Background Modeling*) através da média aritmética de quadros de vídeo, desenvolvido inteiramente em Assembly para a arquitetura MIPS-32. Este projeto foi realizado para a disciplina de Organização e Arquitetura de Computadores.
 
